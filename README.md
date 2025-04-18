@@ -13,6 +13,9 @@ Este projeto é uma landing page estática desenvolvida para apresentar os servi
 
 ---
 
+## Link do site para execução online:
+https://clinica-viver-liutw4tny-luanas-projects-1e2285ff.vercel.app/
+
 ## 🚀 Como rodar o projeto localmente
 
 1. Faça o download dos arquivos (ou clone o repositório):
