@@ -18,3 +18,11 @@ Este projeto é uma landing page estática desenvolvida para apresentar os servi
 1. Faça o download dos arquivos (ou clone o repositório):
    ```bash
    git clone https://github.com/seu-usuario/clinica-viver-bem.git
+2.Acesse a pasta do projeto:
+Abra o arquivo index.html em seu navegador (basta dar dois cliques ou arrastar para o navegador).
+
+## 📹 Vídeo de Apresentação:
+
+## 🛠️ Tecnologias Utilizadas
+   - HTML5
+   - CSS3
