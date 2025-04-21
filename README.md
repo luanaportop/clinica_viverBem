@@ -25,7 +25,7 @@ https://clinica-viver-liutw4tny-luanas-projects-1e2285ff.vercel.app/
 Abra o arquivo index.html em seu navegador (basta dar dois cliques ou arrastar para o navegador).
 
 ## 📹 Vídeo de Apresentação:
-
+   https://youtu.be/890Z89j7NsQ?si=kCxM2hHP7ybdrCeK
 ## 🛠️ Tecnologias Utilizadas
    - HTML5
    - CSS3
